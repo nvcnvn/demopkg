@@ -8,7 +8,7 @@ func init() {
 	fmt.Print("Package init")
 }
 func Foo() {
-	fmt.Print("Foo")
+	fmt.Print("Foo, say hello!!!")
 }
 func bar() {
 	fmt.Print("bar")
